@@ -1,2 +1,1 @@
-# Notion-React-TailwindCSS
-Created with CodeSandbox
+# Practice with Tailwind
